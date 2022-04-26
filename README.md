@@ -12,4 +12,4 @@ ICTU projects and employees using GitHub should comply with the following guidel
 - Repositories have a `LICENSE` file.
 - Repositories have a `SECURITY.md` file in the root of the repository explaining the security status and point of contact for the project. See [SECURITY.md](SECURITY.md) for an example.
 - Inactive repositories (meaning no activity for over one year) are archived.
-- Inactive forks (meaning to activity on the fork for over two years) are archived.
+- Inactive forks (meaning no activity on the fork for over two years) are archived.
