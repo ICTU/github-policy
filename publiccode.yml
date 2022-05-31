@@ -1,0 +1,45 @@
+ publiccodeYmlVersion: "0.2"
+ 
+ name: Medusa
+ url: "https://example.com/ictu/repo.git"
+ softwareVersion: "dev"    # Optional
+ releaseDate: "2022-05-31"
+ platforms:
+   - web
+ 
+categories:
+  - public-services
+
+developmentStatus: development
+
+softwareType: "standalone/desktop"
+
+description:
+  en:
+    localisedName: repo   # Optional
+    shortDescription: >
+          A rather short description which
+          is probably useless
+
+    longDescription: >
+          Very long description of this software, also split
+          on multiple rows. You should note what the software
+          is and why one should need it. We can potentially
+          have many pages of text here.
+
+    features:
+       - Just one feature
+
+legal:
+  license: AGPL-3.0-or-later
+
+maintenance:
+  type: "community"
+
+  contacts:
+    - name: Frank Niessink
+
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - en
