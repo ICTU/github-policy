@@ -17,3 +17,5 @@ ICTU projects, departments, and employees using GitHub should comply with the fo
   - Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on and alerts are monitored.
   - Inactive repositories (meaning no activity for over one year) are archived.
   - Inactive forks (meaning no activity on the fork for over two years) are archived.
+
+Point of contact for this repository is [Frank Niessink](@fniessink).
