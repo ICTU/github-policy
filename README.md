@@ -2,7 +2,7 @@
 
 How ICTU uses GitHub.
 
-ICTU projects and employees using GitHub should comply with the following guidelines:
+ICTU projects, departments, and employees using GitHub should comply with the following guidelines:
 
 - Users have GitHub 2FA authentication turned on.
 - New users and users leaving are reported to [Frank Niessink](@fniessink).
