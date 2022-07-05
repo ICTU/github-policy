@@ -1,4 +1,4 @@
-# github-policy
+# ICTU GitHub policy
 
 How ICTU uses GitHub.
 
