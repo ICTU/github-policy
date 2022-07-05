@@ -1,37 +1,35 @@
  publiccodeYmlVersion: "0.2"
  
- name: Medusa
- url: "https://example.com/ictu/repo.git"
- softwareVersion: "dev"    # Optional
- releaseDate: "2022-05-31"
+ name: ICTU GitHub Policy
+ url: "https://github.com/ICTU/github-policy.git"
+ softwareVersion: "1.0"    # Optional
+ releaseDate: "2022-07-05"
  platforms:
    - web
  
 categories:
-  - public-services
+  - collaboration
 
-developmentStatus: development
+developmentStatus: stable
 
-softwareType: "standalone/desktop"
+softwareType: "configurationFiles"
 
 description:
   en:
-    localisedName: repo   # Optional
+    localisedName: github-policy   # Optional
     shortDescription: >
-          A rather short description which
-          is probably useless
+          How ICTU uses GitHub.
 
     longDescription: >
-          Very long description of this software, also split
-          on multiple rows. You should note what the software
-          is and why one should need it. We can potentially
-          have many pages of text here.
+          Guidelines that ICTU projects, departments, and employees 
+          should comply with when using GitHub.
 
     features:
-       - Just one feature
+       - Guidelines
+       - Examples
 
 legal:
-  license: AGPL-3.0-or-later
+  license: Apache-2.0
 
 maintenance:
   type: "community"
@@ -40,6 +38,6 @@ maintenance:
     - name: Frank Niessink
 
 localisation:
-  localisationReady: true
+  localisationReady: false
   availableLanguages:
     - en
