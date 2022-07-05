@@ -18,5 +18,6 @@ ICTU projects, departments, and employees using GitHub should comply with the fo
   - Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on. 
   - Repository owners ensure that Dependabot and Code scanning alerts are monitored and addressed.
   - Repository owners archive their repositories if they become inactive (meaning no activity for over one year, or no activity for two years if the repository is a fork of another repository).
+  - (Optional) Repositories have a `publiccode.yml` file in the root of the repository, a [metadata description standard](https://github.com/publiccodeyml/publiccode.yml) for public software in order to make the software easily discoverable. See [publiccode.yml](./publiccode.yml) for an example.
 
 Point of contact for this repository is [Frank Niessink](@fniessink).
