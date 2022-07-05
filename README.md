@@ -27,7 +27,9 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 
 ### For repositories
 
-- Repositories have a `publiccode.yml` file in the root of the repository, a [metadata description standard](https://github.com/publiccodeyml/publiccode.yml) for public software in order to make the software easily discoverable. See [publiccode.yml](./publiccode.yml) for an example.
+- Repositories have a `publiccode.yml` file in the root of the repository, a [metadata description standard](https://github.com/publiccodeyml/publiccode.yml) for public software in order to make the software easily discoverable. See [publiccode.yml](publiccode.yml) for an example.
+- Repositories have a `CHANGELOG.md` file describing relevant changes to the repository contents. The changelog format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). See [CHANGELOG.md](CHANGELOG.md) for an example.
+- Repositories use [Semantic Versioning](https://semver.org/spec/v2.0.0.html) to version the repository contents.
 
 ## Get in touch
 
