@@ -2,7 +2,7 @@
 
 How ICTU uses GitHub.
 
-ICTU projects, departments, and employees using GitHub should follow the guidelines below to the best of their ability.
+ICTU projects, departments, and employees using GitHub should follow the guidelines below to the best of their ability. The guidelines are applicable to both repositories and forks.
 
 ## Mandatory guidelines
 
