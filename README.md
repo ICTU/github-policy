@@ -21,7 +21,8 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 - Repositories have a `CODE_OF_CONDUCT.md` file accompanied with a `CONTRIBUTING.md` file in the root of the repository explaining how people are invited to contribute. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for examples.
 - Repositories have a `SECURITY.md` file in the root of the repository explaining the security status and point of contact for the repository. See [SECURITY.md](SECURITY.md) for an example.
 - Repositories have [Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) turned on.
-- Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on. 
+- Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on.
+- Repositories have [Secret scanning alerts](https://docs.github.com/en/code-security/secret-scanning) turned on.
 
 ## Optional guidelines
 
