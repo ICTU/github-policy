@@ -9,7 +9,7 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 ### For people
 
 - Users have GitHub 2FA authentication turned on.
-- Repository owners ensure that Dependabot and Code scanning alerts are monitored and addressed.
+- Repository owners ensure that Dependabot, code scanning, and secret scanning alerts as well as private vulnerability reports are monitored and addressed.
 - Repository owners report new users and users leaving to the ICTU Service Desk.
 - Repository owners archive their repositories if they become inactive (meaning no activity for over one year, or no activity for two years if the repository is a fork of another repository).
 
