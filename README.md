@@ -23,6 +23,7 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 - Repositories have [Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) turned on.
 - Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on.
 - Repositories have [Secret scanning alerts](https://docs.github.com/en/code-security/secret-scanning) turned on.
+- Repositories have [Private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability) turned on.
 
 ## Optional guidelines
 
