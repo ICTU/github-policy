@@ -35,4 +35,4 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 
 ## Get in touch
 
-Point of contact for this repository is [Frank Niessink](@fniessink).
+Point of contact for this repository is [Frank Niessink](https://github.com/fniessink).
