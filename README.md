@@ -24,6 +24,7 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 - Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on.
 - Repositories have [Secret scanning alerts](https://docs.github.com/en/code-security/secret-scanning) turned on.
 - Repositories have [Private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability) turned on.
+- If the repository uses GitHub Actions, versions are [pinned to full-length commit SHA](https://docs.github.com/en/actions/reference/security/secure-use#using-third-party-actions).
 
 ## Optional guidelines
 
