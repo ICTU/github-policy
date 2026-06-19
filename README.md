@@ -24,6 +24,7 @@ ICTU projects, departments, and employees using GitHub should follow the guideli
 - Repositories have [Code scanning alerts](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) turned on.
 - Repositories have [Secret scanning alerts](https://docs.github.com/en/code-security/secret-scanning) turned on.
 - Repositories have [Private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability) turned on.
+- If a repository uses Github Actions, the [versions of the actions are pinned to specific commits](https://nldesignsystem.nl/handboek/developer/github-actions/) (rather than tags or branches, which are mutable). This is enforced for ICTU repositories by the GitHub general actions permission "Require actions to be pinned to a full-length commit SHA".
 
 ## Optional guidelines
 
